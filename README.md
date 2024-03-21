@@ -7,6 +7,8 @@
 - mbti : infp
 - 혈액형 : AB
 - 좋아하는 언어: 자바
-
 ---
-### 이미지 추가
+-  좋아하는 캐릭터
+
+
+![mom](https://github.com/kimyewon97/MiniHomepage/assets/153456344/a1c469e7-0ed5-4fd3-b2ba-8661aaae6832)
